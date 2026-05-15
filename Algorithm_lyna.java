@@ -1,3 +1,3 @@
-public class Algorithm_lyna {
+public class Algorithm_lyna extends Algorithm{
     
 }
